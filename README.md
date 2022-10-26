@@ -18,3 +18,9 @@
 <img src="https://user-images.githubusercontent.com/98728682/198039233-2da480e9-3a5b-4d55-92bd-a07655a507de.PNG" width="780" height="500"><img src="https://user-images.githubusercontent.com/98728682/198039325-9612f2ef-28e4-4705-987f-761cc25f4bcd.PNG" width="780" height="500">
 
 <img src="https://user-images.githubusercontent.com/98728682/198039465-774ac9ec-bead-4c68-91fd-fb51d982d851.PNG" width="780" height="500">
+
+## 결론
+
+분류된 카테고리의 색상으로 컬러 매칭 코디 서비스를 제공
+
+사용자의 피드백을 바탕으로 만족도가 높은 아이템의 노출비율을 높이고자 하였다.
