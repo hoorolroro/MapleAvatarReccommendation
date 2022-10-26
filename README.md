@@ -13,3 +13,8 @@
 ## 메이플 아바타 추천 시스템 구현
 
 
+<img src=https://user-images.githubusercontent.com/98728682/198038997-2b926e3c-cb4c-4c2f-a117-a9a7246eb4f9.PNG" width="550" height="500"><img src="https://user-images.githubusercontent.com/98728682/198039141-2275cfca-d4ec-44c6-9fef-98c2c5b49f34.PNG" width="550" height="500">
+
+<img src="https://user-images.githubusercontent.com/98728682/198039233-2da480e9-3a5b-4d55-92bd-a07655a507de.PNG" width="550" height="500"><img src="https://user-images.githubusercontent.com/98728682/198039325-9612f2ef-28e4-4705-987f-761cc25f4bcd.PNG" width="550" height="500">
+
+<https://user-images.githubusercontent.com/98728682/198039465-774ac9ec-bead-4c68-91fd-fb51d982d851.PNG" width="550" height="500">
