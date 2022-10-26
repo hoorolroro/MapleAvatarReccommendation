@@ -25,3 +25,6 @@
 
 <img src="https://user-images.githubusercontent.com/98728682/198039465-774ac9ec-bead-4c68-91fd-fb51d982d851.PNG" width="820" height="500">
 
+## 결론
+ - 분류된 카테고리의 색상으로 컬러 매칭 코디 서비스를 제공하여
+ - 사용자의 피드백을 바탕으로 만족도가 높은 아이템의 메이플 API에서 가져와 사용자에게 추천하고자 한다.
